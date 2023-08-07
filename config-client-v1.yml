@@ -1,7 +1,7 @@
 # 服务端口
 server:
-  port: 3001
+  port: 3008
 
 # 当前版本信息
 version:
-  message: 20230806发布第一个版本
+  message: '074f88be73eb21d5cbcf78946dfb25013b575efc8d8bc16cda87d7d34a32a7423967e8d957b4847018f916a255c64c39df39727d7cf04e1af56a3bfca7dceb97'
